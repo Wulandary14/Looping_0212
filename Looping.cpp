@@ -38,3 +38,11 @@ do{
 cout << "Bilangan acak do-while yang terakhir =" << x << endl;
 cout << endl;
 }
+
+//Logika not
+#include <iostream>
+using namespace std;
+
+int main( ){
+float nilB, nilM, rerata;
+string status;
